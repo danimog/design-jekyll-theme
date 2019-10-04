@@ -7,35 +7,35 @@ social-card: /assets/images/favicons/social-card.png
 
 ## Site name
 name:
-  en: "A Jekyll theme"
-  it: "Un tema Jekyll"
+  en: "National Park"
+  it: "Parco Nazionale"
 
 ## Site description
 description:
-  en: "A website with a Jekyll theme"
-  it: "Sito di esempio per il tema Jekyll"
+  en: "A website with a Jekyll theme for national parks"
+  it: "Sito di esempio per il tema Jekyll dei Parchi italiani"
 
 ## Site author
 author:
-  en: "Digital Transformation Team"
-  it: "Team per la Trasformazione Digitale"
+  en: "danielemoggia.it"
+  it: "danielemoggia.it"
 
 ## Social
 social-links:
   en:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/ITdigitalteam"
+      url: "https://twitter.com/parco5terre"
     medium:
       name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://medium.com/danielemoggia/"
   it:
     twitter:
       name: "twitter"
-      url: "https://twitter.com/teamdigitaleIT"
+      url: "https://twitter.com/parco5terre"
     medium:
       name: "medium"
-      url: "https://medium.com/team-per-la-trasformazione-digitale/"
+      url: "https://medium.com/danielemoggia/"
 
 ## Labels
 italian-version:
